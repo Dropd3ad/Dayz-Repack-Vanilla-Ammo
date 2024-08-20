@@ -2,7 +2,9 @@ Both Files Go in Scripts Folder inside a 4_World Folder.
 
 Adds Ability To Repack Loose Ammo Into Boxes Again
 
+
 <code>Free For All To Use<code> 
+
 
 #
 
@@ -15,7 +17,7 @@ Adds Ability To Repack Loose Ammo Into Boxes Again
            \_______\/\________\/ \__\/\__\/\________\/     \_____\/ \_____\/ \_____\/ \__\/ 
 
 
-#
+</hr>
 
          ___  ___  ___  ___  ___  ____ ___  ___   ___  ___  _ _  ____  __ __  ___  ___  ____
          | . \| . \| . || . \| . \<__ /| . || . \ | . \| . || | ||_  / |  \  \| . || . \|_  /
